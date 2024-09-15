@@ -26,6 +26,8 @@ else:
         print("You Lost")
     elif(computer==0 and youstr==1):
         print("You win")
+    else:
+        print("Something went wrong")
 
 
         
